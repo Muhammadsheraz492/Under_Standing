@@ -1,0 +1,15 @@
+/home/muhammad/Pictures/Uni/Visual_Programming/Dot_programming/Under_Standing/bin/Debug/net6.0/Under_Standing
+/home/muhammad/Pictures/Uni/Visual_Programming/Dot_programming/Under_Standing/bin/Debug/net6.0/Under_Standing.deps.json
+/home/muhammad/Pictures/Uni/Visual_Programming/Dot_programming/Under_Standing/bin/Debug/net6.0/Under_Standing.runtimeconfig.json
+/home/muhammad/Pictures/Uni/Visual_Programming/Dot_programming/Under_Standing/bin/Debug/net6.0/Under_Standing.dll
+/home/muhammad/Pictures/Uni/Visual_Programming/Dot_programming/Under_Standing/bin/Debug/net6.0/ref/Under_Standing.dll
+/home/muhammad/Pictures/Uni/Visual_Programming/Dot_programming/Under_Standing/bin/Debug/net6.0/Under_Standing.pdb
+/home/muhammad/Pictures/Uni/Visual_Programming/Dot_programming/Under_Standing/obj/Debug/net6.0/Under_Standing.csproj.AssemblyReference.cache
+/home/muhammad/Pictures/Uni/Visual_Programming/Dot_programming/Under_Standing/obj/Debug/net6.0/Under_Standing.GeneratedMSBuildEditorConfig.editorconfig
+/home/muhammad/Pictures/Uni/Visual_Programming/Dot_programming/Under_Standing/obj/Debug/net6.0/Under_Standing.AssemblyInfoInputs.cache
+/home/muhammad/Pictures/Uni/Visual_Programming/Dot_programming/Under_Standing/obj/Debug/net6.0/Under_Standing.AssemblyInfo.cs
+/home/muhammad/Pictures/Uni/Visual_Programming/Dot_programming/Under_Standing/obj/Debug/net6.0/Under_Standing.csproj.CoreCompileInputs.cache
+/home/muhammad/Pictures/Uni/Visual_Programming/Dot_programming/Under_Standing/obj/Debug/net6.0/Under_Standing.dll
+/home/muhammad/Pictures/Uni/Visual_Programming/Dot_programming/Under_Standing/obj/Debug/net6.0/ref/Under_Standing.dll
+/home/muhammad/Pictures/Uni/Visual_Programming/Dot_programming/Under_Standing/obj/Debug/net6.0/Under_Standing.pdb
+/home/muhammad/Pictures/Uni/Visual_Programming/Dot_programming/Under_Standing/obj/Debug/net6.0/Under_Standing.genruntimeconfig.cache
