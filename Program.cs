@@ -2,7 +2,7 @@
 using FirstProject;
 using Cal;
     
-
+namespace Sheraz{
     class Program
     {
  
@@ -16,3 +16,4 @@ using Cal;
         }
     }
 
+}
