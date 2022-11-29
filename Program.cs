@@ -1,7 +1,6 @@
 ﻿using System;
 using FirstProject;
-namespace First
-{
+using Cal;
     
 
     class Program
@@ -11,8 +10,9 @@ namespace First
         {   
             Person person=new Person();
             person.Greeting();
+            int result=Calculator.Add(5,10);
+            System.Console.WriteLine(result);
             System.Console.WriteLine("Hello world");
         }
     }
 
-}
