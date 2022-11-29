@@ -1,13 +1,8 @@
 ﻿using System;
-
+using FirstProject;
 namespace First
 {
-    public class Person{
-        public void Greeting(){
-            System.Console.WriteLine("Tested  Person");
-        }
-    }
-
+    
 
     class Program
     {
