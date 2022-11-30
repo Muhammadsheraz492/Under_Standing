@@ -3,8 +3,8 @@ namespace Student{
    public class Student1
     { 
 
-     private  String name="Dumy",Roll_number,Email;
-      Int64 age;
+     private  String name="Dumy";
+      // Int64 age;
       
       public void Setname(String name){
         this.name=name;
