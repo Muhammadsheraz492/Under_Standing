@@ -5,7 +5,7 @@
 // namespace Sheraz{
 //     class Program
 //     {
- 
+
 //         public static void Main(string[] args)
 //         {   
 //             Person person=new Person();
@@ -28,17 +28,22 @@
 
 // // }
 // using Weigh;
-namespace  MAin{
-class Program
+namespace MAin
 {
-    public static void Main(string[] args)
+    class Program
     {
-        // Income Ali=new Income();
-        Int64 result= Income.Check(1221);
-        System.Console.WriteLine(result);
-        // Int64 result=Ali.(500,25);
-        //  Income.Calculate();        
+        public static void Main(string[] args)
+        {
+            // Income Ali=new Income();
+            System.Console.Write("Enter Wage of per hours (in Dollars please):");
+            Int16 wage = Convert.ToInt16(System.Console.ReadLine());
+            System.Console.Write("Enter hours:");
+            Int16 hours = Convert.ToInt16(System.Console.ReadLine());
+            Int64 result = Income.Check(wage,hours);
+            System.Console.WriteLine(result+" $");
+            // Int64 result=Ali.(500,25);
+            //  Income.Calculate();        
+        }
     }
-}
 
 }
